@@ -1,7 +1,7 @@
 .grid{
-    height: 450px !important;
-    width: 450px !important;
-    padding: 0 !important;
+    height: 295px !important;
+    width: 100% !important;
+    object-fit: cover !important;
 }
 
 .photo {
@@ -10,4 +10,8 @@
     display: block !important;
     margin-left: auto !important;
     margin-right: auto !important;
+}
+
+#granola {
+    object-position: bottom;
 }
