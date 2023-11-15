@@ -1,3 +1,13 @@
-.photo{
-    height: 350px;
+.grid{
+    height: 450px !important;
+    width: 450px !important;
+    padding: 0 !important;
+}
+
+.photo {
+    height: 350px !important;
+    width: 350px !important;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
